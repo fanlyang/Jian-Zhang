@@ -1,6 +1,6 @@
 ### Article Lists
 
-[1] - In situ carbon corrosion and Cu leaching as a strategy for boosting oxygen evolution reaction in multimetal electrocatalysts.  
+[1] - In situ carbon corrosion and Cu leaching as a strategy for boosting oxygen evolution reaction in multimetal electrocatalysts. <strong>WOS:000756704400001</strong>
   **[Web of Science](https://www.webofscience.com/wos/woscc/full-record/WOS:000756704400001)**
 
 
